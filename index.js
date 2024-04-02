@@ -15,4 +15,4 @@ function countDown(number) {
       console.log(number);
       number--;
     }
-}// Code your solutions in this file
+}
